@@ -1,4 +1,6 @@
 ﻿using System;
+мне 5 я первый !
+    
 
 namespace ConsoleApp26
 {
